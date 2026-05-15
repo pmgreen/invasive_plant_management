@@ -1,0 +1,1 @@
+[{"id": "4b401798-2201-4258-6544-9361e729d924", "name": "fid", "dataType": "integer", "primaryKeyIndex": 0, "size": 64}, {"id": "d8ffd907-44bf-d5f7-5443-79327aa405a7", "name": "geom", "dataType": "geometry", "geometryType": "POLYGON", "geometryCRS": "EPSG:4326"}, {"id": "7859fb21-b097-5703-967d-6e465c23fc5e", "name": "area", "dataType": "integer", "size": 32}]

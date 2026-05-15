@@ -1,6 +1,6 @@
 # Invasive Plant Management
 
-[QField](https://qfield.org/) app to identify and track removal of invasive plants. 
+[QField](https://qfield.org/) app to identify, and to track removal of, invasive plants. 
 
 The main layer is `clipboard` (to mimic using a clipboard in the field).
 There are two modes:

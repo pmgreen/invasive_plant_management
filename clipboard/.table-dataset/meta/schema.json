@@ -1,0 +1,1 @@
+[{"id": "2ee7e6b3-1da6-0ed5-009a-5c0873ea2228", "name": "fid", "dataType": "integer", "primaryKeyIndex": 0, "size": 64}, {"id": "42f2d9d9-bd70-fd50-ebed-2357dd92e625", "name": "date", "dataType": "date"}, {"id": "0cef760f-9073-b432-7147-84b54626fc68", "name": "type", "dataType": "text"}, {"id": "2a956334-09a3-85cd-f141-29c3d6591ef9", "name": "species", "dataType": "text"}]

@@ -19,20 +19,21 @@ Species are defined within the QGIS app as a value relation widget in the attrib
 
 | common |	latin |
  -- | --
-privet |	Ligustrum sinense
 autumn olive	| Elaeagnus umbellata 
-multiflora rose | Rosa multiflora
-bush honeysuckle	| Lonicera maackii
-vine honeysuckle	| Lonicera japonica
-kudzu	| Pueraria montana
-english ivy	| Hedera helix
-wintercreeper	| Euonymus fortunei
 burning bush	| Euonymous alatus
-stilt grass	| Microstegium
 bush clover	| Lespedeza cuneata
-tree of heaven	| Ailanthus altissima
+bush honeysuckle	| Lonicera maackii
+english ivy	| Hedera helix
+kudzu	| Pueraria montana
 mimosa	| Albizia julibrissin
 mullein	| Verbascum thapsus
+multiflora rose | Rosa multiflora	
+privet |	Ligustrum sinense
+stilt grass	| Microstegium
+tree of heaven	| Ailanthus altissima
+vine honeysuckle	| Lonicera japonica
+wineberry	| Rubus phoenicolasius
+wintercreeper	| Euonymus fortunei
 
 ---
 
